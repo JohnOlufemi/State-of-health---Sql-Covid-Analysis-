@@ -1,6 +1,6 @@
 # State-of-health---Sql-Covid-Analysis-
 
-For this project, SQL was used to query COVID data to figure obtained from the WHO website from December 2019 to September 2023
+For this project, SQL was used to query COVID data figures obtained from the WHO website from December 2019 to September 2023
 
 The following questions were answered in the project:
 What is the likelihood of dying if you contract Covid?
