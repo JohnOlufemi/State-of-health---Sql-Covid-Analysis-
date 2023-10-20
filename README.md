@@ -1,6 +1,12 @@
-# State-of-health---Sql-Covid-Analysis-
+# State-of-health-COVID 19 Data Exploration with SQL
 
-For this project, SQL was used to query COVID data figures obtained from the WHO website from December 2019 to September 2023
+The Covid 19 pandemic have had several short-term as well as long term impacts on human health, society, economy and environment. A pandemic which broke out in 2019 created significant knock-on effects on the daily life of citizens, as well as about the global economy.
+
+Presently the impacts of COVID-19 in daily life are extensive and have far reaching consequences.
+
+In this project, I analyzed and explored covid data with SQL using Micrsoft SQL Server Management Studio.
+
+This covid-19 data was sourced from Our World in Data starting from 1st January, 2020 to 17th Septemberr, 2023
 
 The following questions were answered in the project:
 What is the likelihood of dying if you contract Covid?
