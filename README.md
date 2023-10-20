@@ -6,7 +6,7 @@ Presently the impacts of COVID-19 in daily life are extensive and have far reach
 
 In this project, I analyzed and explored covid data with SQL using Micrsoft SQL Server Management Studio.
 
-This covid-19 data was sourced from [Our World in Data] starting from 1st January, 2020 to 17th Septemberr, 2023
+This covid-19 data was sourced from [[Our World in Data]](https://ourworldindata.org/covid-deaths) starting from 1st January, 2020 to 17th Septemberr, 2023
 
 The following questions were answered in the project:
 What is the likelihood of dying if you contract Covid?
