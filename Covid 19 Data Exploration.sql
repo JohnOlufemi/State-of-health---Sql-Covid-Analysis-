@@ -65,6 +65,25 @@ Order by TotalDeathCount Desc
 
 
 --ANALYZING DATA BASED ON DIFFERENT CONTINENTS
+	
+-- Covid cases by continent
+	
+Select continent, sum(cast(total_cases as bigint)) as TotalCasesCount
+From PortfolioProject..CovidDeaths
+--Where location like '%Kingdom%'
+Where continent is not null 
+Group by continent
+Order by TotalCasesCount Desc
+
+-- Covid deaths by continent
+	
+Select continent, sum(cast(Total_deaths as int)) as TotalDeathCount
+From PortfolioProject..CovidDeaths
+--Where location like '%Kingdom%'
+Where continent is not null 
+Group by continent
+Order by TotalDeathCount Desc
+	
 
 --Contintents with the highest death count per population
 
@@ -76,8 +95,7 @@ Group by continent
 Order by TotalDeathCount Desc
 
 
-
-
+	
 --GLOBAL NUMBERS
 
 -- Total cases, total deaths, and death percentage across the world
