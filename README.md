@@ -8,23 +8,23 @@ Presently the impacts of COVID-19 in daily life are extensive and have far reach
 
 In this project, I analyzed and explored covid data with SQL using Micrsoft SQL Server Management Studio.
 
-This covid-19 data was sourced from [[Our World in Data]](https://ourworldindata.org/covid-deaths) starting from 1st January, 2020 to 17th Septemberr, 2023
+This covid-19 data was sourced from [[Our World in Data]](https://ourworldindata.org/covid-deaths) starting from 1st January, 2020 to 27th Septemberr, 2023
 
 
 # Summary of Findings
 
 According to the insights derived from the covid data :
 
-The total covid-19 cases confirmed was 630,711,800 cases
+The total covid-19 confirmed cases was 770,955,465
 
-The total deaths recorded was 6,561,569
+The total deaths recorded was 6,965,862
 
-The global percentage death was 1.04 percent
+The global percentage death was 0.90 percent
 
-United satates, India, France, and Brazil had the total number of confirmed cases.
+United states, China, India, France, and Germany have had the highest number total confirmed cases.
 
 United states, Brazil, India, Russia and Mexico recorded the highest deaths.
 
-Europe had the highest total cases per continrent, followed by Asia, North merica, and South America.
+Asia had the highest total cases per continent, followed by Europe, North merica, and South America.
 
-Europe had the total number of deaths recorded as per continent, followed by North America, Asia, and South America.
+Europe had the total number of deaths recorded as per continent, followed by North America, Asia, and South America, and Africa respectively
