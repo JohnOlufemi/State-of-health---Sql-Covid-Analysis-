@@ -27,4 +27,4 @@ According to the insights derived from the covid data :
 
 	Asia had the highest total cases per continent, followed by Europe, North merica, and South America.
 
-	Europe had the total number of deaths recorded as per continent, followed by North America, Asia, and South America, and Africa 		respectively
+	Europe had the total number of deaths recorded as per continent, followed by North America, Asia, and South America, and 	Africa.
