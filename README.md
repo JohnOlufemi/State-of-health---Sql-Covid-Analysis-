@@ -32,4 +32,4 @@ Europe had the total number of deaths recorded as per continent, followed by Nor
 
 # Dashboard Report
 
-Here is https://public.tableau.com/views/Covid19SummaryDashboard_16982400212410/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link dashboard report that I built to further to visualize the insights and trends derived from this analysis.
+Here is [https://public.tableau.com/views/Covid19SummaryDashboard_16982400212410/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link] dashboard report that I built to further to visualize the insights and trends derived from this analysis.
