@@ -28,3 +28,8 @@ United states, Brazil, India, Russia and Mexico recorded the highest deaths.
 Asia had the highest total cases per continent, followed by Europe, North merica, and South America.
 
 Europe had the total number of deaths recorded as per continent, followed by North America, Asia, and South America, and 	Africa.
+
+
+# Dashboard Report
+
+Here is a [Tableau](https://public.tableau.com/app/profile/john.ogunleye/viz/Covid19SummaryDashboard_16982400212410/Dashboard1)https://public.tableau.com/app/profile/john.ogunleye/viz/Covid19SummaryDashboard_16982400212410/Dashboard1 dashboard report that I built to further to visualize the insights and trends derived from this analysis.
