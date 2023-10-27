@@ -6,7 +6,7 @@ The Covid 19 pandemic have had several short-term as well as long term impacts o
 
 Presently the impacts of COVID-19 in daily life are extensive and have far reaching consequences.
 
-In this project, I analyzed and explored covid data with SQL using Micrsoft SQL Server Management Studio.
+In this project, I analyzed and explored covid data with SQL using Microsoft SQL Server Management Studio.
 
 This covid-19 data was sourced from [[Our World in Data]](https://ourworldindata.org/covid-deaths) starting from 1st January, 2020 to 27th Septemberr, 2023
 
